@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.vagrant
+Homestead.json
+Homestead.yaml
+node_modules
+npm-debug.log
+Vagrantfile
+.env
+/vendor/
+wp-cli.yml
+public/upgrade/
